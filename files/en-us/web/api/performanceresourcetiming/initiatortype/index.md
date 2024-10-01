@@ -25,7 +25,7 @@ The `initiatorType` property can have the following values, or `other` if none o
   - : If the request was initiated by a {{HTMLElement("body")}} element's `background` attribute.
 - `css`
   - : If the request was initiated by a CSS `url()` function.
-- `early-hint`
+- `early-hints`
   - : If the request was initiated by an {{HTTPStatus("103")}} `Early Hint` response.
 - `embed`
   - : If the request was initiated by an {{HTMLElement("embed")}} element's `src` attribute.
